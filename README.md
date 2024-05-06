@@ -54,3 +54,5 @@
 45. Microsoft
 46. Rockstar Developer
 47. Fizz Buzz
+
+- 문제가 있을 경우 kjiwon411@hufs.ac.kr로 연락주세요.
