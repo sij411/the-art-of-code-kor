@@ -7,7 +7,9 @@
 
 # Timeline
 
-1. Introduction
+- 번역 완료된 부분은 취소선 표시
+  
+~~1. Introduction~~
 2. Logo
 3. Amstrad
 4. Art
