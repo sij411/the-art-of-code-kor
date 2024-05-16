@@ -10,9 +10,9 @@
 - 번역 완료된 부분은 취소선 표시
   
 ~~1. Introduction~~
-2. Logo
+~~2. Logo~~
 3. Amstrad
-4. Art
+~~4. Art~~
 5. Science
 6. Game of Life
 7. Tetris
