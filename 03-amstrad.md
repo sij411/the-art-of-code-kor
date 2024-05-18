@@ -74,7 +74,7 @@ to you about anything useful because I am going to talk to you about art and all
 
 1:02
 
-이걸 가지고 할 수 있는 게 별로 없어요. 통신도 못 하고, 전화도 못 하고, BBS나 게시판, 인터넷도 없어요. 하지만 이 로고 프로그래밍 언어에 있는 게 가지고 있는 건 뭘까요?
+이걸 가지고 할 수 있는 게 별로 없어요. 통신도 못 하고, 전화도 못 하고, BBS나 게시판, 인터넷도 없었어요. 하지만 그것이 진정 가지고 있었던 것은 이 로고 프로그래밍 언어였습니다.
 
 1:09
 
@@ -98,7 +98,7 @@ to you about anything useful because I am going to talk to you about art and all
 
 1:43
 
-되돌아가서 다른 것을 시도해 보곤 했습니다. 제 경력 전반에 걸쳐 저를 짜릿하게 했던, 소프트웨어와 디자인 시스템들을 개발한 사실은
+되돌아가서 다른 것을 시도해 보곤 했습니다. 제 경력 전반에 걸쳐 저를 짜릿하게 했던, 소프트웨어를 개발하고 시스템을 설계한 사실은
 
 1:50
 
@@ -126,4 +126,4 @@ to you about anything useful because I am going to talk to you about art and all
 
 2:26
 
-어떤 유용한 것도 얘기하지 않을 거예요. 왜냐하면 저는 예술에 대해 말할 것이고, 오스카 와일드는 "모든 예술은 전혀 쓸모가 없다."라고 했기 때문이죠.
+어떤 유용한 것도 얘기하지 않을 거예요. 왜냐하면 저는 예술에 대해 말할 것이고, 오스카 와일드는 "모든 예술은 쓸모가 없다."라고 했기 때문이죠.
