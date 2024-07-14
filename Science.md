@@ -86,7 +86,7 @@ this is the stems inside one strand of a banana leaf this amazing beautiful
 3:39
 
 microscopic world we had never ever seen and we've sent machines and cameras and telescopes and people into space and
-우리가 전혀 본 적 없던 현미경 세계와, 기계와 카메라와 망원경과 사람들을 우주로 보냈습니다.
+우리가 전혀 본 적 없던 미시 세계와, 기계와 카메라와 망원경과 사람들을 우주로 보냈습니다.
 
 3:46
 
@@ -130,7 +130,7 @@ where he described something called Conway's Game of Life created by an
 4:44
 
 English mathematician called John Conway now as games go Conway's Game of Life
-영국 수학자 존 콘웨이가 만든. 이제 콘웨이의 Game of Life이 진행됩니다. (?)
+영국 수학자 존 콘웨이가 만든. 이제 콘웨이의 Game of Life이 시작됩니다. 
 
 
 4:49
