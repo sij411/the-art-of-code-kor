@@ -9,52 +9,52 @@
 
 - 번역 완료된 부분은 취소선 표시
   
-~~1. Introduction~~
-~~2. Logo~~
-~~3. Amstrad~~
-~~4. Art~~
-~~5. Science~~
-6. Game of Life
-7. Tetris
-8. Butterfly Effect
-9. Imaginary Numbers
-10. Complex Numbers
-11. Mandelbrot
-12. Tron
-13. Nicolas Cage
-14. Neural Networks
-15. Deep Dreaming
-16. Robert Felker
-17. Coding as an art form
-18. Examples
-19. Oscar Pulido
-20. Simona Syncovich
-21. A Quiet Word
-22. String Templating
-23. Can You Make a Coin HTML
-24. Languages
-25. Linux
-26. Hello World
-27. White Space 
-28. Hello World Souffle
-29. Hello World Cake
-30. Piet
-31. HelloWorld
-32. Live Demos
-33. Snowflakes
-34. Sonic Pi 
-35. Sonic Pi Demo
-36. Rock Star Developer
-37. Rock Star
-38. Variables 
-39. Arithmetic
-40. True or False
-41. Modulus
-42. Fizzbuzz
-43. Rockstar
-44. Classic Rock Magazine
-45. Microsoft
-46. Rockstar Developer
-47. Fizz Buzz
+~~1. Introduction~~ <br>
+~~2. Logo~~ <br>
+~~3. Amstrad~~ <br>
+~~4. Art~~ <br>
+~~5. Science~~ <br>
+6. Game of Life <br>
+7. Tetris <br>
+8. Butterfly Effect <br>
+9. Imaginary Numbers <br>
+10. Complex Numbers <br>
+11. Mandelbrot <br>
+12. Tron <br>
+13. Nicolas Cage <br>
+14. Neural Networks <br>
+15. Deep Dreaming <br>
+16. Robert Felker <br>
+17. Coding as an art form <br>
+18. Examples <br>
+19. Oscar Pulido <br>
+20. Simona Syncovich <br>
+21. A Quiet Word <br>
+22. String Templating <br>
+23. Can You Make a Coin HTML <br>
+24. Languages <br>
+25. Linux <br>
+26. Hello World <br>
+27. White Space <br>
+28. Hello World Souffle <br>
+29. Hello World Cake <br>
+30. Piet <br>
+31. HelloWorld <br>
+32. Live Demos <br>
+33. Snowflakes <br>
+34. Sonic Pi <br>
+35. Sonic Pi Demo <br>
+36. Rock Star Developer <br>
+37. Rock Star <br>
+38. Variables <br>
+39. Arithmetic <br>
+40. True or False <br>
+41. Modulus <br>
+42. Fizzbuzz <br>
+43. Rockstar <br>
+44. Classic Rock Magazine <br>
+45. Microsoft <br>
+46. Rockstar Developer <br>
+47. Fizz Buzz <br>
 
 - 문제가 있을 경우 kjiwon411@hufs.ac.kr로 연락주세요.
