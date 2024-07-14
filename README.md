@@ -11,9 +11,9 @@
   
 ~~1. Introduction~~
 ~~2. Logo~~
-3. Amstrad
+~~3. Amstrad~~
 ~~4. Art~~
-5. Science
+~~5. Science~~
 6. Game of Life
 7. Tetris
 8. Butterfly Effect
